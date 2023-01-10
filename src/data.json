@@ -1,0 +1,19 @@
+[ {
+    "name": "글렌피딕 12년",
+    "region": "스페이사이드",
+    "category": "싱글몰트",
+    "price": 103200,
+    "alcohol": 40,
+    "rating": 82,
+    "cask": "올로로소 셰리, 버번"
+   },
+   {
+    "name": "글렌피딕 15년",
+    "region": "스페이사이드",
+    "category": "싱글몰트",
+    "price": 129000,
+    "alcohol": 40,
+    "rating": 88,
+    "cask": "버번, 새 오크, 셰리"
+   }
+]

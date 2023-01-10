@@ -1,0 +1,2270 @@
+[
+ {
+  "name": "글렌피딕 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 103200,
+  "alcohol": 40,
+  "rating": 82,
+  "cask": "올로로소 셰리, 버번"
+ },
+ {
+  "name": "글렌피딕 15년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 129000,
+  "alcohol": 40,
+  "rating": 88,
+  "cask": "버번, 새 오크, 셰리"
+ },
+ {
+  "name": "글렌피딕 18년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 198000,
+  "alcohol": 40,
+  "rating": 87,
+  "cask": "셰리, 버번"
+ },
+ {
+  "name": "글렌피딕 21년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 398000,
+  "alcohol": 43.2,
+  "rating": 83,
+  "cask": "리세브라 럼"
+ },
+ {
+  "name": "더 글렌리벳 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 99000,
+  "alcohol": 40,
+  "rating": 85,
+  "cask": "유럽 오크, 아메리칸 오크"
+ },
+ {
+  "name": "더 글렌리벳 15년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 136700,
+  "alcohol": 40,
+  "rating": 86,
+  "cask": "프렌치 오크"
+ },
+ {
+  "name": "더 글렌리벳 18년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 218000,
+  "alcohol": 40,
+  "rating": 85,
+  "cask": "1st & 2nd 필 아메리칸, ex-셰리"
+ },
+ {
+  "name": "더 맥켈란 12년 셰리",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 117500,
+  "alcohol": 40,
+  "rating": 87,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "더 맥켈란 18년 셰리",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 462600,
+  "alcohol": 43,
+  "rating": 90,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "더 맥켈란 12년 더블오크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 110000,
+  "alcohol": 40,
+  "rating": 83,
+  "cask": "아메리칸, 유럽 셰리 오크"
+ },
+ {
+  "name": "더 맥켈란 15년 더블오크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 160000,
+  "alcohol": 43,
+  "rating": 86,
+  "cask": "아메리칸, 유럽 셰리 오크"
+ },
+ {
+  "name": "더 맥켈란 18년 더블오크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 345000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "아메리칸, 유럽 셰리 오크"
+ },
+ {
+  "name": "발베니 12년 더블오크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 120000,
+  "alcohol": 40,
+  "rating": 87,
+  "cask": "아메리칸, 올로로소 셰리"
+ },
+ {
+  "name": "발베니 12년 아메리칸 오크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 130000,
+  "alcohol": 43,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "발베니 14년 캐리비안캐스크",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 178000,
+  "alcohol": 43,
+  "rating": 83,
+  "cask": "럼"
+ },
+ {
+  "name": "발베니 15년 싱글배럴",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 330000,
+  "alcohol": 43,
+  "rating": 89,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "발베니 17년 더블오크 (단종)",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 238000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "아메리칸, 올로로소 셰리"
+ },
+ {
+  "name": "발베니 21년 포트우드",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 480000,
+  "alcohol": 40,
+  "rating": 84,
+  "cask": "포트"
+ },
+ {
+  "name": "발베니 21년 세컨드 로즈",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 530000,
+  "alcohol": 48.1,
+  "rating": 82,
+  "cask": "호주 시라즈"
+ },
+ {
+  "name": "글렌로티스 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 86900,
+  "alcohol": 40,
+  "rating": 85,
+  "cask": "셰리"
+ },
+ {
+  "name": "글렌로티스 WMC",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 139900,
+  "alcohol": 48.8,
+  "rating": 89,
+  "cask": "셰리"
+ },
+ {
+  "name": "글렌로티스 18년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 210000,
+  "alcohol": 46,
+  "rating": 86,
+  "cask": "셰리"
+ },
+ {
+  "name": "아벨라워 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 116000,
+  "alcohol": 43,
+  "rating": 85,
+  "cask": "ex버번, ex셰리"
+ },
+ {
+  "name": "아벨라워 14년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 174000,
+  "alcohol": 40,
+  "rating": 87,
+  "cask": "ex버번, ex셰리"
+ },
+ {
+  "name": "아벨라워 16년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 235000,
+  "alcohol": 40,
+  "rating": 82,
+  "cask": "ex버번, ex셰리"
+ },
+ {
+  "name": "아벨라워 아브나흐 #65",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 193000,
+  "alcohol": 59.5,
+  "rating": 88,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌알라키 10년 CS 배치7번",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 165000,
+  "alcohol": 56.8,
+  "rating": 86,
+  "cask": "올로로소, PX 셰리, 리오하, 버진 오크"
+ },
+ {
+  "name": "글렌알라키 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 117900,
+  "alcohol": 46,
+  "rating": 84,
+  "cask": "올로로소, PX 셰리, 버진 오크"
+ },
+ {
+  "name": "글렌알라키 15년 ",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 191900,
+  "alcohol": 46,
+  "rating": 86,
+  "cask": "올로로소, PX 셰리"
+ },
+ {
+  "name": "글렌파클라스 10년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 101900,
+  "alcohol": 40,
+  "rating": 81,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌파클라스 15년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 197000,
+  "alcohol": 46,
+  "rating": 85,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌파클라스 25년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 532000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌파클라스 105",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 168000,
+  "alcohol": 60,
+  "rating": 86,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌그란트 10년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 72500,
+  "alcohol": 40,
+  "rating": 79,
+  "cask": "ex버번, 셰리"
+ },
+ {
+  "name": "글렌그란트 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 89900,
+  "alcohol": 43,
+  "rating": 81,
+  "cask": "ex버번, 셰리"
+ },
+ {
+  "name": "글렌그란트 15년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 131000,
+  "alcohol": 50,
+  "rating": 85,
+  "cask": "1st 필 ex버번, 셰리"
+ },
+ {
+  "name": "글렌그란트 18년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 248000,
+  "alcohol": 43,
+  "rating": 84,
+  "cask": "ex버번, 셰리"
+ },
+ {
+  "name": "크라겐모어 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 93000,
+  "alcohol": 40,
+  "rating": 85,
+  "cask": "ex버번 (확인 필요)"
+ },
+ {
+  "name": "몰트락 16년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 138000,
+  "alcohol": 43.4,
+  "rating": 88,
+  "cask": "ex셰리"
+ },
+ {
+  "name": "스페이번 10년 ",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 56000,
+  "alcohol": 40,
+  "rating": 81,
+  "cask": "ex버번, 셰리 "
+ },
+ {
+  "name": "벤리악 10년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 80000,
+  "alcohol": 43,
+  "rating": 82,
+  "cask": "버번, 셰리, 버진"
+ },
+ {
+  "name": "벤리악 12년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 95000,
+  "alcohol": 46,
+  "rating": 86,
+  "cask": "버번, 셰리, 버진"
+ },
+ {
+  "name": "벤로막 10년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 71000,
+  "alcohol": 43,
+  "rating": 86,
+  "cask": "버번, 셰리"
+ },
+ {
+  "name": "벤로막 15년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 178000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "버번, 셰리"
+ },
+ {
+  "name": "벤로막 21년",
+  "region": "스페이사이드",
+  "category": "싱글몰트",
+  "price": 397000,
+  "alcohol": 43,
+  "rating": 87,
+  "cask": "버번, 셰리"
+ },
+ {
+  "name": "글렌드로낙 12년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 109000,
+  "alcohol": 43,
+  "rating": 87,
+  "cask": "올로로소, PX 셰리"
+ },
+ {
+  "name": "글렌드로낙 15년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 230000,
+  "alcohol": 46,
+  "rating": 84,
+  "cask": "올로로소, PX 셰리"
+ },
+ {
+  "name": "글렌드로낙 18년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 265000,
+  "alcohol": 46,
+  "rating": 88,
+  "cask": "올로로소 셰리"
+ },
+ {
+  "name": "글렌드로낙 21년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 479000,
+  "alcohol": 48,
+  "rating": 90,
+  "cask": "올로로소, PX 셰리"
+ },
+ {
+  "name": "글렌모렌지 10년 오리지널",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 71900,
+  "alcohol": 40,
+  "rating": 81,
+  "cask": "1st & 2nd 필 아메리칸 오크"
+ },
+ {
+  "name": "글렌모렌지 12년 라산타",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 114500,
+  "alcohol": 43,
+  "rating": 87,
+  "cask": "올로로소, PX 셰리"
+ },
+ {
+  "name": "글렌모렌지 14년 퀸타루반",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 140000,
+  "alcohol": 46,
+  "rating": 87,
+  "cask": "ex버번, 포트 피니시"
+ },
+ {
+  "name": "글렌모렌지 12년 넥타도르",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 139500,
+  "alcohol": 46,
+  "rating": 84,
+  "cask": "버번, 소테론"
+ },
+ {
+  "name": "글렌모렌지 시그넷",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 430000,
+  "alcohol": 46,
+  "rating": 92,
+  "cask": "아메리칸 오크, 올로로소 셰리"
+ },
+ {
+  "name": "달위니 15년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 116200,
+  "alcohol": 43,
+  "rating": 83,
+  "cask": "ex버번"
+ },
+ {
+  "name": "달모어 12년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 105800,
+  "alcohol": 40,
+  "rating": 84,
+  "cask": "아메리칸, 올로로소 셰리"
+ },
+ {
+  "name": "달모어 15년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 185500,
+  "alcohol": 40,
+  "rating": 86,
+  "cask": "아메리칸, 아포스톨, 아모로소, 올로로소 셰리"
+ },
+ {
+  "name": "달모어 18년",
+  "region": "하이랜드",
+  "category": "싱글몰트",
+  "price": 336000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "ex버번, 올로로소 셰리"
+ },
+ {
+  "name": "와일드터키 101 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 59000,
+  "alcohol": 50.5,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 101 라이(국내 미발매)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 100000,
+  "alcohol": 50.5,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 50900,
+  "alcohol": 40.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 56900,
+  "alcohol": 40.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 켄터키 스피릿",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 108000,
+  "alcohol": 50.5,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 포기븐 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 513000,
+  "alcohol": 45.5,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 레어브리드",
+  "region": "켄터키 ",
+  "category": "버번",
+  "price": 95000,
+  "alcohol": 58.4,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 롱브랜치",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 83500,
+  "alcohol": 43,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크, 텍사스 오크"
+ },
+ {
+  "name": "와일드터키 12년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 135400,
+  "alcohol": 50.5,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 13년(단종)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 119000,
+  "alcohol": 45.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 13년 파더 앤 선",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 167500,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "러셀스 리저브 싱글배럴 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 119000,
+  "alcohol": 55,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "러셀스 리저브 싱글배럴 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 190000,
+  "alcohol": 52,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "러셀스 리저브 10년 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 105000,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "러셀스 리저브 6년 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 150000,
+  "alcohol": 45,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 마스터스 킵 원",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 320000,
+  "alcohol": 50.5,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크, 토스티드 배럴"
+ },
+ {
+  "name": "와일드터키 마스터스 킵 1894",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 303000,
+  "alcohol": 45,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 마스터스 킵 코너스톤 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 336000,
+  "alcohol": 54.5,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 마스터스 킵 리바이벌",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 339000,
+  "alcohol": 50.5,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크, 올로로소 쉐리"
+ },
+ {
+  "name": "와일드터키 마스터스 킵 바틀드 인 본드",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 336000,
+  "alcohol": 50,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "와일드터키 다이아몬드 애니버서리 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 1053000,
+  "alcohol": 45.5,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "메이커스 마크",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 59000,
+  "alcohol": 45,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "메이커스 마크 46",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 90000,
+  "alcohol": 47,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "메이커스 마크 101",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 62000,
+  "alcohol": 50.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "메이커스 마크 캐스크 스트렝스",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 70000,
+  "alcohol": 55.05,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "벤치마크 올드 NO.8",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 20000,
+  "alcohol": 40,
+  "rating": 67,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "버팔로트레이스",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 62000,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "이글레어 10년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 112000,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "사제락 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 95000,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "블랑톤(블랜튼스) 싱글배럴 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 170000,
+  "alcohol": 46.5,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "블랜튼스 골드 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 750000,
+  "alcohol": 51.5,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "블랜튼스 스트레이트 프롬 더 배럴(21.3.11 No.32)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 430000,
+  "alcohol": 64.6,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "커널 E.H. 테일러 버번 스몰배치",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 140000,
+  "alcohol": 50,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "커널 E.H. 테일러 버번 싱글배럴",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 220000,
+  "alcohol": 50,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "커널 E.H. 테일러 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 209000,
+  "alcohol": 50,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "스태그 주니어 batch 17",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 350000,
+  "alcohol": 64.35,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "조지 T 스택 2019",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 1500000,
+  "alcohol": 58.45,
+  "rating": 95,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "윌리엄 라루 웰러 2019",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 1500000,
+  "alcohol": 64,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "이글레어 17 2019 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 2200000,
+  "alcohol": 50.5,
+  "rating": 93,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "토마스 H 핸디 2019",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 1500000,
+  "alcohol": 62.85,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "사제락 18 2019 (참고)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 2000000,
+  "alcohol": 45,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "OFC 1994 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 9990000,
+  "alcohol": 45,
+  "rating": 97,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "1792 스몰배치",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 80600,
+  "alcohol": 46.85,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "1792 스위트 위트",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 115500,
+  "alcohol": 45.6,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "1792 바틀드 인 본드",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 120000,
+  "alcohol": 50,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "1792 풀 프루프",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 125000,
+  "alcohol": 62.5,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "1792 12년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 140000,
+  "alcohol": 48.3,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "웰러 스페셜 리저브",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 80000,
+  "alcohol": 45,
+  "rating": 81,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "웰러 앤티크 107",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 130000,
+  "alcohol": 53.5,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "웰러 풀프루프(국내 미출시)(참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 200000,
+  "alcohol": 57,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "웰러 12년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 250000,
+  "alcohol": 45,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "베리 올드 세인트 닉 12년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 150000,
+  "alcohol": 45,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "베리 올드 세인트 닉 메이플 라이 (참고)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 540000,
+  "alcohol": 40.6,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "베리 올드 세인트 닉 8년 라이 (참고)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 450000,
+  "alcohol": 41.4,
+  "rating": 78,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "베리 올드 세인트 닉 섬머라이 (참고)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 650000,
+  "alcohol": 59.2,
+  "rating": 93,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 립 밴 윙클 10년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 5500000,
+  "alcohol": 53.5,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "패피 밴 윙클 15년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 15000000,
+  "alcohol": 53.5,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "패피 밴 윙클 20년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 21000000,
+  "alcohol": 45.2,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "패피 밴 윙클 23년 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 34000000,
+  "alcohol": 47.8,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "락 힐 팜 싱글배럴 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 600000,
+  "alcohol": 50,
+  "rating": 91,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "핸콕 프레지던트 리저브 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 470000,
+  "alcohol": 44.45,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "엘머 T 리 싱글배럴 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 250000,
+  "alcohol": 45,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "포로지스 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 48000,
+  "alcohol": 40,
+  "rating": 79,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "포로지스 스몰배치",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 73900,
+  "alcohol": 45,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "포로지스 싱글배럴",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 95000,
+  "alcohol": 50,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "포로지스 슈퍼 프리미엄 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 550000,
+  "alcohol": 43,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "포로지스 스몰배치 배럴 스트랭스 2016",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 1800000,
+  "alcohol": 55.6,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "불릿 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 67900,
+  "alcohol": 45,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "불릿 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 77900,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "불렛 10년 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 210000,
+  "alcohol": 45.6,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 59000,
+  "alcohol": 42,
+  "rating": 81,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 하이라이",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 75000,
+  "alcohol": 46,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 76000,
+  "alcohol": 46,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 휘티드 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 127000,
+  "alcohol": 45,
+  "rating": 75,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 꼬냑캐스크 피니쉬드 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 192000,
+  "alcohol": 49.5,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크, 꼬냑캐스크"
+ },
+ {
+  "name": "리뎀션 9년 배럴프루프 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 280000,
+  "alcohol": 54.1,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 10년 배럴프루프 하이라이 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 280000,
+  "alcohol": 57.2,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리뎀션 10년 배럴프루프 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 280000,
+  "alcohol": 58.1,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "우드포드 리저브 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 121000,
+  "alcohol": 43.2,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "우드포드 리저브 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 123000,
+  "alcohol": 45.2,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "우드포드 리저브 더블 오크",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 99000,
+  "alcohol": 43.2,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크X2"
+ },
+ {
+  "name": "올드 포레스터",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 61900,
+  "alcohol": 43,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 포레스터 1870 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 150000,
+  "alcohol": 47,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 포레스터 1897 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 180000,
+  "alcohol": 50,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 포레스터 1910 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 210000,
+  "alcohol": 46.5,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크X2"
+ },
+ {
+  "name": "올드 포레스터 1920",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 230000,
+  "alcohol": 57.5,
+  "rating": 90,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 포레스터 150주년 Batch 1 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 1140000,
+  "alcohol": 63.4,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "피어리스 켄터키 스트레이트 버번 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 210000,
+  "alcohol": 57.06,
+  "rating": 81,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "피어리스 5년 싱글배럴 라이 (참고)",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 330000,
+  "alcohol": 54.15,
+  "rating": 92,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "노아스 밀",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 170000,
+  "alcohol": 57.15,
+  "rating": 95,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "로완스 크릭",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 146000,
+  "alcohol": 50.05,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "윌렛 팟스틸 리저브",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 110000,
+  "alcohol": 47,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "윌렛 패밀리에스테이트 라이 4년",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 220000,
+  "alcohol": 55,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "윌렛 패밀리에스테이트 버번 5년 (No.201)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 4000000,
+  "alcohol": 62.5,
+  "rating": 98,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "블랙켄트 X 윌렛 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 630000,
+  "alcohol": 54.8,
+  "rating": 93,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "울브즈 X 윌렛 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 980000,
+  "alcohol": 51.5,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "잭다니엘",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 34000,
+  "alcohol": 40,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "젠틀맨 잭",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 48000,
+  "alcohol": 40,
+  "rating": 75,
+  "cask": "버진 아메리칸 오크&더블 링컨 카운티 프로세스"
+ },
+ {
+  "name": "잭다니엘 싱글배럴 셀렉트",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 126000,
+  "alcohol": 45,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "잭다니엘 싱글배럴 100 프루프",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 115000,
+  "alcohol": 50,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "잭다니엘 싱글배럴 라이",
+  "region": "테네시",
+  "category": "라이",
+  "price": 120000,
+  "alcohol": 45,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "잭다니엘 싱글배럴 배럴프루프(R-15 RICK N9)",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 220000,
+  "alcohol": 65.05,
+  "rating": 95,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "잭다니엘 코이 힐 (참고)",
+  "region": "테네시",
+  "category": "버번(테네시 위스키)",
+  "price": 650000,
+  "alcohol": 70.45,
+  "rating": 95,
+  "cask": "버진 아메리칸 오크&링컨 카운티 프로세스"
+ },
+ {
+  "name": "엔젤스 엔비",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 150000,
+  "alcohol": 43.3,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크, 포트캐스크"
+ },
+ {
+  "name": "엔젤스 엔비 캐스크 스트렝스 2019",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 3000000,
+  "alcohol": 61.2,
+  "rating": 95,
+  "cask": "버진 아메리칸 오크, 포트캐스크"
+ },
+ {
+  "name": "믹터스 US*1 스몰배치 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 107000,
+  "alcohol": 45.7,
+  "rating": 77,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 US*1 스몰배치 버번 토스티드 배럴 피니쉬",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 240000,
+  "alcohol": 45.7,
+  "rating": 88,
+  "cask": "버진 아메리칸, 토스티드 배럴 피니쉬"
+ },
+ {
+  "name": "믹터스 US*1 스몰배치 사워매쉬",
+  "region": "켄터키",
+  "category": "아메리칸 위스키",
+  "price": 107000,
+  "alcohol": 43,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 US*1 스몰배치 사워매쉬 토스티드 배럴 피니쉬",
+  "region": "켄터키",
+  "category": "아메리칸 위스키",
+  "price": 240000,
+  "alcohol": 43,
+  "rating": 80,
+  "cask": "버진 아메리칸, 토스티드 배럴 피니쉬"
+ },
+ {
+  "name": "믹터스 US*1 싱글 배럴 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 107000,
+  "alcohol": 42.4,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 US*1 배럴 스트렝스 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 209000,
+  "alcohol": 55,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 US*1 배럴 스트렝스 라이 토스티드 배럴 피니쉬",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 330000,
+  "alcohol": 55,
+  "rating": 90,
+  "cask": "버진 아메리칸, 토스티드 배럴 피니쉬"
+ },
+ {
+  "name": "보머거스 2020",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 250000,
+  "alcohol": 54,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "쉥크스 2020",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 210000,
+  "alcohol": 45.6,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 10년 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 299000,
+  "alcohol": 47.2,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "믹터스 10년 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 459000,
+  "alcohol": 46.4,
+  "rating": 92,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "옐로우 로즈 프리미엄",
+  "region": "텍사스",
+  "category": "아메리칸 위스키",
+  "price": 61800,
+  "alcohol": 40,
+  "rating": 73,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "옐로우 로즈 해리슨 카운티",
+  "region": "텍사스",
+  "category": "버번",
+  "price": 76200,
+  "alcohol": 46,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "옐로우 로즈 라이",
+  "region": "텍사스",
+  "category": "라이",
+  "price": 89200,
+  "alcohol": 45,
+  "rating": 77,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "옐로우 로즈 아웃로우",
+  "region": "텍사스",
+  "category": "버번",
+  "price": 125000,
+  "alcohol": 46,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "제임스 E. 페퍼 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 85000,
+  "alcohol": 50,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "제임스 E. 페퍼 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 85000,
+  "alcohol": 50,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "제임스 E. 페퍼 라이 배럴프루프",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 139000,
+  "alcohol": 57.6,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드페퍼 라이 싱글배럴",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 145600,
+  "alcohol": 55,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 화이트",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 32900,
+  "alcohol": 40,
+  "rating": 66,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 블랙",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 45900,
+  "alcohol": 43,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 라이",
+  "region": "켄터키",
+  "category": "라이",
+  "price": 45900,
+  "alcohol": 45,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 더블오크",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 55000,
+  "alcohol": 43,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크X2"
+ },
+ {
+  "name": "짐빔 싱글배럴",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 40000,
+  "alcohol": 54,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "베이즐 헤이든",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 87700,
+  "alcohol": 40,
+  "rating": 72,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 데빌스 컷",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 58000,
+  "alcohol": 45,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크, 배럴 추출 버번"
+ },
+ {
+  "name": "짐빔 리젠트",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 116000,
+  "alcohol": 47,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크, 레드와인 캐스크, 쉐리 캐스크"
+ },
+ {
+  "name": "베이커스 7년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 127000,
+  "alcohol": 53.5,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 그랜 대드 114",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 120000,
+  "alcohol": 57,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "짐빔 리니지 15년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 372050,
+  "alcohol": 55.5,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "부커스22-01E",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 200000,
+  "alcohol": 62.15,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "리틀북 챕터 5",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 700000,
+  "alcohol": 58.4,
+  "rating": 92,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "납 크릭 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 80000,
+  "alcohol": 50,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "납 크릭 라이",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 80000,
+  "alcohol": 50,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "납 크릭 싱글배럴",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 180000,
+  "alcohol": 60,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "바즈타운 디스커버리 #4",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 450000,
+  "alcohol": 57.5,
+  "rating": 94,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "레빗 홀 캐이브 힐 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 96900,
+  "alcohol": 47.5,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에반윌리엄스 블랙",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 24900,
+  "alcohol": 43,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에반윌리엄스 바틀드 인 본드",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 39000,
+  "alcohol": 50,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에반윌리엄스 싱글배럴",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 92000,
+  "alcohol": 43,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에반 윌리엄스 12년 101",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 120000,
+  "alcohol": 50.5,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "일라이자 크레이그 스몰배치",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 79000,
+  "alcohol": 47,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "일라이자 크레이그 스몰배치 토스티드 베럴 피니쉬",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 99000,
+  "alcohol": 47,
+  "rating": 85,
+  "cask": "버진 아메리칸, 토스티드 배럴 피니쉬"
+ },
+ {
+  "name": "일라이자 크레이그 배럴프루프 A120",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 240000,
+  "alcohol": 68.3,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "일라이자 크레이그 배럴프루프 B521 (참고)",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 240000,
+  "alcohol": 59.1,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "일라이자 크레이그 배럴프루프 C921",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 240000,
+  "alcohol": 60.1,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "라세니 버번",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 66000,
+  "alcohol": 46,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "라세니 배럴프루프",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 290000,
+  "alcohol": 60.5,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에즈라브룩스 버번",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 56500,
+  "alcohol": 45,
+  "rating": 70,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에즈라브룩스 99",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 64900,
+  "alcohol": 49.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "에즈라브룩스 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 59900,
+  "alcohol": 45,
+  "rating": 78,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "올드 에즈라 7년",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 149000,
+  "alcohol": 58.5,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "레벨옐",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 51500,
+  "alcohol": 40,
+  "rating": 70,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "레벨옐 100",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 63500,
+  "alcohol": 50,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "레벨옐 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 65900,
+  "alcohol": 45,
+  "rating": 77,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "레벨옐 10년",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 250000,
+  "alcohol": 50,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "헤븐스도어 더블배럴",
+  "region": "테네시",
+  "category": "아메리칸 위스키",
+  "price": 95000,
+  "alcohol": 50,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "헤븐스도어 버번",
+  "region": "테네시",
+  "category": "버번",
+  "price": 95000,
+  "alcohol": 45,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "헤븐스도어 라이",
+  "region": "테네시",
+  "category": "라이",
+  "price": 128000,
+  "alcohol": 46,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "휘슬피그 10년",
+  "region": "캐나다",
+  "category": "라이",
+  "price": 107900,
+  "alcohol": 50,
+  "rating": 89,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "휘슬피그 12년",
+  "region": "캐나다",
+  "category": "라이",
+  "price": 160000,
+  "alcohol": 43,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "휘슬피그 15년",
+  "region": "캐나다",
+  "category": "라이",
+  "price": 283000,
+  "alcohol": 46,
+  "rating": 87,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "위도우제인 버번 10년",
+  "region": "켄터키\/테네시\/인디애나\/뉴욕",
+  "category": "버번",
+  "price": 192000,
+  "alcohol": 45.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "위도우제인 아메리칸 오크",
+  "region": "켄터키\/테네시\/인디애나\/뉴욕",
+  "category": "아메리칸 위스키",
+  "price": 156000,
+  "alcohol": 45.5,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "위도우제인 오크 앤 애플우드",
+  "region": "켄터키\/테네시\/인디애나\/뉴욕",
+  "category": "아메리칸 위스키(라이)",
+  "price": 156000,
+  "alcohol": 45.5,
+  "rating": 75,
+  "cask": "버진 아메리칸 오크, 애플우드 스타브"
+ },
+ {
+  "name": "클리블랜드 버번 위스키",
+  "region": "클리블랜드",
+  "category": "버번",
+  "price": 90000,
+  "alcohol": 50,
+  "rating": 77,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "언더그라운드 블랙 체리우드 피니쉬",
+  "region": "클리블랜드",
+  "category": "아메리칸 위스키",
+  "price": 90000,
+  "alcohol": 47,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크, 블랙 체리우드"
+ },
+ {
+  "name": "퓨 버번",
+  "region": "시카고",
+  "category": "버번",
+  "price": 119000,
+  "alcohol": 46.5,
+  "rating": 73,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "퓨 라이",
+  "region": "시카고",
+  "category": "라이",
+  "price": 131000,
+  "alcohol": 46.5,
+  "rating": 70,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "퓨 이모탈 라이",
+  "region": "시카고",
+  "category": "아메리칸 위스키(라이+우롱티)",
+  "price": 131000,
+  "alcohol": 46.5,
+  "rating": 82,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "코발 버번",
+  "region": "시카고",
+  "category": "버번",
+  "price": 88000,
+  "alcohol": 47,
+  "rating": 66,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "코발 라이",
+  "region": "시카고",
+  "category": "라이",
+  "price": 106000,
+  "alcohol": 40,
+  "rating": 63,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "코발 포 그레인",
+  "region": "시카고",
+  "category": "아메리칸 위스키",
+  "price": 73000,
+  "alcohol": 47,
+  "rating": 65,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "켄터키 아울 컨피스케이티드",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 392000,
+  "alcohol": 48.2,
+  "rating": 75,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "켄터키 아울 버번 batch 10",
+  "region": "인디애나",
+  "category": "버번",
+  "price": 989000,
+  "alcohol": 63.8,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "켄터키 아울 라이 10년",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 680000,
+  "alcohol": 57,
+  "rating": 85,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "로스빌 유니온 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 180000,
+  "alcohol": 56.3,
+  "rating": 80,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "템플턴 라이 4년",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 59000,
+  "alcohol": 40,
+  "rating": 76,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "템플턴 라이 6년",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 85000,
+  "alcohol": 45.75,
+  "rating": 77,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "템플턴 라이 메이플 캐스크",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 165000,
+  "alcohol": 46,
+  "rating": 81,
+  "cask": "버진 아메리칸 오크, 메이플 캐스크"
+ },
+ {
+  "name": "템플턴 라이 배럴 스트렝스",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 162000,
+  "alcohol": 57.9,
+  "rating": 86,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "마이너 케이스 스트레이트 라이",
+  "region": "인디애나",
+  "category": "라이",
+  "price": 120000,
+  "alcohol": 43,
+  "rating": 83,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "I.W. 하퍼",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 120000,
+  "alcohol": 41,
+  "rating": 70,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "I.W. 하퍼 12년",
+  "region": "켄터키",
+  "category": "버번",
+  "price": 500000,
+  "alcohol": 43,
+  "rating": 88,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "드라이 플라이 워싱턴 밀",
+  "region": "워싱턴",
+  "category": "아메리칸 위스키",
+  "price": 135000,
+  "alcohol": 45,
+  "rating": 76,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "드라이 플라이 라이",
+  "region": "워싱턴",
+  "category": "라이",
+  "price": 106000,
+  "alcohol": 45,
+  "rating": 73,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "드라이 플라이 101",
+  "region": "워싱턴",
+  "category": "버번",
+  "price": 106000,
+  "alcohol": 50.5,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "드라이 플라이 캐스크 스트렝스 (참고)",
+  "region": "워싱턴",
+  "category": "버번",
+  "price": 200000,
+  "alcohol": 60,
+  "rating": 84,
+  "cask": "버진 아메리칸 오크"
+ },
+ {
+  "name": "스텔럼 버번",
+  "region": "인디애나, 테네시, 켄터키",
+  "category": "버번",
+  "price": 430000,
+  "alcohol": 54.61,
+  "rating": 93,
+  "cask": "버진 아메리칸 오크"
+ }
+]
